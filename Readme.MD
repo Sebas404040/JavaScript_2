@@ -28,3 +28,7 @@ En el ajedrez, el **caballo** se mueve en forma de **L**, lo que significa que a
 -**estilos.css**
 -**index.html**
 -**Readme.md** 
+
+## Integrantes desarrolladores del proyecto
+- Juan Sebastian Gomez Serrano
+- Sergio Steven Lievano Amaya
